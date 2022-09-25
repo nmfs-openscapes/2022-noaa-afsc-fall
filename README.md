@@ -50,7 +50,7 @@ Add:
 
 **Stefanie Butland** (@stefaniebutland), Openscapes
 
-**Em Markowitz** (@emilyhmarkowitz), NOAA AFSC
+**Em Markowitz** (@EmilyMarkowitz-NOAA), NOAA AFSC
 
 **Megsie Siple** (@MargaretSiple-NOAA), NOAA AFSC
 
