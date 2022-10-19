@@ -30,7 +30,7 @@ We can make lists – *note that lists need a carriage return before list items!
 2. tamales
 3. cakes
 4. apples
-5. dark chocolate
+5. [dark chocolate](https://www.dovechocolate.com/cdn-cgi/image/width=472,height=472,f=auto,quality=90/sites/g/files/fnmzdf186/files/2021-01/y0wyo36s5hkhkkpwghxd.png)
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
