@@ -43,6 +43,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](../horst-champions-trailhead.png)
 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fteam-solutions.us%2Fnoaa-logo%2F&psig=AOvVaw3mpkapQJSktv2IKEbeOeZV&ust=1666299000427000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjOrtGV7foCFQAAAAAdAAAAABAE)
+
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
