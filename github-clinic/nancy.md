@@ -26,7 +26,7 @@ We can make words **bold** or *italic*.
 
 We can make lists – *note that lists need a carriage return before list items!*
 
-1. bananas
+1. [bananas](https://domf5oio6qrcr.cloudfront.net/medialibrary/6372/202ebeef-6657-44ec-8fff-28352e1f5999.jpg)
 2. tamales
 3. cakes
 4. apples
