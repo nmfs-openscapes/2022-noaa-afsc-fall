@@ -36,7 +36,7 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 
 *Note that we've also made a indented quote block with the `>` symbol*
 
-> [ASAMM web page] (https://www.fisheries.noaa.gov/alaska/marine-mammal-protection/aerial-surveys-arctic-marine-mammals)
+> [ASAMM web page] (https://www.fisheries.noaa.gov/alaska/marine-mammal-protection/aerial-surveys-arctic-marine-mammals).
 
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. For example: 
 
