@@ -43,4 +43,4 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
-Testing out the ability to add a [link] (https://www.google.com/search?q=hawaii&rlz=1C1GCEB_enUS1021US1021&oq=hawaii&aqs=chrome..69i57j46i433i512j46i131i199i433i465i512j0i131i433i512j46i131i433j46i433i512j0i131i433i512j0i131i433j46i131i433i512j0i271.2263j0j7&sourceid=chrome&ie=UTF-8) to something random
+Testing out the ability to add a [link](https://www.google.com/search?q=hawaii&rlz=1C1GCEB_enUS1021US1021&oq=hawaii&aqs=chrome..69i57j46i433i512j46i131i199i433i465i512j0i131i433i512j46i131i433j46i433i512j0i131i433i512j0i131i433j46i131i433i512j0i271.2263j0j7&sourceid=chrome&ie=UTF-8) to something random
