@@ -24,7 +24,7 @@ Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 11/18 | 4. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathways preparation
 12/02 | 5. Pathways share |  | 
 
-**Cohort Call Digests** are posted as issues in this repo.
+**Cohort Call Digests** are posted as [issues](https://github.com/nmfs-openscapes/2022-noaa-afsc-fall/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Adigest) in this repo.
 
 
 ## Coworking times (optional)
@@ -35,14 +35,8 @@ Cross-cohort themed coworking with Julie, Stefanie and guests - Tuesdays 1:00 - 
 
 ## Participating teams
 
-Upcoming: These are the teams participating: please add any edits directly (we'll learn how in our GitHub Call!) Take some inspiration from here: https://github.com/Openscapes/2021-noaa-nmfs/blob/main/README.md
-
-Add:
- - What kind of team you are (cross-divisional) or where you are from (division focusing on...)
- - Links to your program and what you are working on together
- - Descriptions of your potential projects. Feel free to list them out [1), 2), 3),...] or provide a longer description.
- - Who is on your team
-
+39 participants in 8 teams! Their work, plus everyone's names and GitHub handles are in this post: [Impacts of 
+Openscapes Training on Open Science Movement Building Inside NOAA's Alaska Fisheries Science Center](https://www.openscapes.org/blog/2023/02/16/2022-noaa-afsc-fall/)
 
 ## Openscapes team
 
